@@ -1,0 +1,10 @@
+2022-01-24T16:56:56+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/shinotec/public_html/bagsandfit.com/wp-content/themes/bazien/template-parts/headers/header-type-default.php:148
+Stack trace:
+#0 /home/shinotec/public_html/bagsandfit.com/wp-includes/template.php(772): require()
+#1 /home/shinotec/public_html/bagsandfit.com/wp-includes/template.php(716): load_template('/home/shinotec/...', false, Array)
+#2 /home/shinotec/public_html/bagsandfit.com/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/shinotec/public_html/bagsandfit.com/wp-content/themes/bazien/header.php(37): get_template_part('template-parts/...', 'type-default')
+#4 /home/shinotec/public_html/bagsandfit.com/wp-includes/template.php(770): require_once('/home/shinotec/...')
+#5 /home/shinotec/public_html/bagsandfit.com/wp-includes/template.php(716): load_template('/home/shinotec/...', true, Array)
+#6 /home/shinotec/public_html/bagsandfit.com/wp-includes/general-template.php(48): locate_templat in /home/shinotec/public_html/bagsandfit.com/wp-content/themes/bazien/template-parts/headers/header-type-default.php on line 148
+
