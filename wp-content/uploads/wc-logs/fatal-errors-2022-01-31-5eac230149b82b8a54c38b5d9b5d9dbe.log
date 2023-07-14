@@ -1,0 +1,20 @@
+2022-01-31T14:33:27+00:00 CRITICAL Uncaught Error: Call to undefined function mb_convert_encoding() in /home/shinotec/public_html/bagsandfit.com/wp-content/plugins/novaworks/includes/mega-menu.php:51
+Stack trace:
+#0 /home/shinotec/public_html/bagsandfit.com/wp-includes/class-wp-walker.php(144): Nova_Addons_Waler_Mega_Menu_Edit->start_el('', Object(WP_Post), 0, Object(stdClass))
+#1 /home/shinotec/public_html/bagsandfit.com/wp-includes/class-wp-walker.php(244): Walker->display_element(Object(WP_Post), Array, 0, 0, Array, '')
+#2 /home/shinotec/public_html/bagsandfit.com/wp-includes/nav-menu-template.php(608): Walker->walk(Array, 0, Object(stdClass))
+#3 /home/shinotec/public_html/bagsandfit.com/wp-admin/includes/nav-menu.php(1094): walk_nav_menu_tree(Array, 0, Object(stdClass))
+#4 /home/shinotec/public_html/bagsandfit.com/wp-admin/nav-menus.php(571): wp_get_nav_menu_to_edit(23)
+#5 {main}
+  thrown in /home/shinotec/public_html/bagsandfit.com/wp-content/plugins/novaworks/includes/mega-menu.php on line 51
+
+2022-01-31T15:57:20+00:00 CRITICAL Uncaught Error: Call to undefined function mb_convert_encoding() in /home/shinotec/public_html/bagsandfit.com/wp-content/plugins/novaworks/includes/mega-menu.php:51
+Stack trace:
+#0 /home/shinotec/public_html/bagsandfit.com/wp-includes/class-wp-walker.php(146): Nova_Addons_Waler_Mega_Menu_Edit->start_el('', Object(WP_Post), 0, Object(stdClass))
+#1 /home/shinotec/public_html/bagsandfit.com/wp-includes/class-wp-walker.php(246): Walker->display_element(Object(WP_Post), Array, 0, 0, Array, '')
+#2 /home/shinotec/public_html/bagsandfit.com/wp-includes/nav-menu-template.php(608): Walker->walk(Array, 0, Object(stdClass))
+#3 /home/shinotec/public_html/bagsandfit.com/wp-admin/includes/nav-menu.php(1094): walk_nav_menu_tree(Array, 0, Object(stdClass))
+#4 /home/shinotec/public_html/bagsandfit.com/wp-admin/nav-menus.php(578): wp_get_nav_menu_to_edit(26)
+#5 {main}
+  thrown in /home/shinotec/public_html/bagsandfit.com/wp-content/plugins/novaworks/includes/mega-menu.php on line 51
+

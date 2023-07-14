@@ -1,0 +1,16 @@
+[25-Mar-2022 04:19:51 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Curve25519' not found in /home/shinotec/public_html/bagsandfit.com/wp-includes/sodium_compat/src/Core32/Ed25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shinotec/public_html/bagsandfit.com/wp-includes/sodium_compat/src/Core32/Ed25519.php on line 10
+[25-Mar-2022 04:19:51 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Curve25519' not found in /home/shinotec/public_html/bagsandfit.com/wp-includes/sodium_compat/src/Core32/Ed25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shinotec/public_html/bagsandfit.com/wp-includes/sodium_compat/src/Core32/Ed25519.php on line 10
+[28-Mar-2022 03:33:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Curve25519' not found in /home/shinotec/public_html/bagsandfit.com/wp-includes/sodium_compat/src/Core32/Ed25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shinotec/public_html/bagsandfit.com/wp-includes/sodium_compat/src/Core32/Ed25519.php on line 10
+[28-Mar-2022 03:33:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Curve25519' not found in /home/shinotec/public_html/bagsandfit.com/wp-includes/sodium_compat/src/Core32/Ed25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shinotec/public_html/bagsandfit.com/wp-includes/sodium_compat/src/Core32/Ed25519.php on line 10

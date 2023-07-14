@@ -1,0 +1,93 @@
+[22-Jan-2022 00:56:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/shinotec/public_html/bagsandfit.com/wp-content/themes/bazien/template-parts/headers/header-type-default.php:148
+Stack trace:
+#0 /home/shinotec/public_html/bagsandfit.com/wp-includes/template.php(772): require()
+#1 /home/shinotec/public_html/bagsandfit.com/wp-includes/template.php(716): load_template('/home/shinotec/...', false, Array)
+#2 /home/shinotec/public_html/bagsandfit.com/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/shinotec/public_html/bagsandfit.com/wp-content/themes/bazien/header.php(37): get_template_part('template-parts/...', 'type-default')
+#4 /home/shinotec/public_html/bagsandfit.com/wp-includes/template.php(770): require_once('/home/shinotec/...')
+#5 /home/shinotec/public_html/bagsandfit.com/wp-includes/template.php(716): load_template('/home/shinotec/...', true, Array)
+#6 /home/shinotec/public_html/bagsandfit.com/wp-includes/general-template.php(48): locate_templat in /home/shinotec/public_html/bagsandfit.com/wp-content/themes/bazien/template-parts/headers/header-type-default.php on line 148
+[22-Jan-2022 13:36:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/shinotec/public_html/bagsandfit.com/wp-content/themes/bazien/template-parts/headers/header-type-default.php:148
+Stack trace:
+#0 /home/shinotec/public_html/bagsandfit.com/wp-includes/template.php(772): require()
+#1 /home/shinotec/public_html/bagsandfit.com/wp-includes/template.php(716): load_template('/home/shinotec/...', false, Array)
+#2 /home/shinotec/public_html/bagsandfit.com/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/shinotec/public_html/bagsandfit.com/wp-content/themes/bazien/header.php(37): get_template_part('template-parts/...', 'type-default')
+#4 /home/shinotec/public_html/bagsandfit.com/wp-includes/template.php(770): require_once('/home/shinotec/...')
+#5 /home/shinotec/public_html/bagsandfit.com/wp-includes/template.php(716): load_template('/home/shinotec/...', true, Array)
+#6 /home/shinotec/public_html/bagsandfit.com/wp-includes/general-template.php(48): locate_templat in /home/shinotec/public_html/bagsandfit.com/wp-content/themes/bazien/template-parts/headers/header-type-default.php on line 148
+[24-Jan-2022 16:56:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/shinotec/public_html/bagsandfit.com/wp-content/themes/bazien/template-parts/headers/header-type-default.php:148
+Stack trace:
+#0 /home/shinotec/public_html/bagsandfit.com/wp-includes/template.php(772): require()
+#1 /home/shinotec/public_html/bagsandfit.com/wp-includes/template.php(716): load_template('/home/shinotec/...', false, Array)
+#2 /home/shinotec/public_html/bagsandfit.com/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/shinotec/public_html/bagsandfit.com/wp-content/themes/bazien/header.php(37): get_template_part('template-parts/...', 'type-default')
+#4 /home/shinotec/public_html/bagsandfit.com/wp-includes/template.php(770): require_once('/home/shinotec/...')
+#5 /home/shinotec/public_html/bagsandfit.com/wp-includes/template.php(716): load_template('/home/shinotec/...', true, Array)
+#6 /home/shinotec/public_html/bagsandfit.com/wp-includes/general-template.php(48): locate_templat in /home/shinotec/public_html/bagsandfit.com/wp-content/themes/bazien/template-parts/headers/header-type-default.php on line 148
+[29-Jan-2022 09:13:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/shinotec/public_html/bagsandfit.com/wp-content/themes/bazien/template-parts/headers/header-type-default.php:148
+Stack trace:
+#0 /home/shinotec/public_html/bagsandfit.com/wp-includes/template.php(772): require()
+#1 /home/shinotec/public_html/bagsandfit.com/wp-includes/template.php(716): load_template('/home/shinotec/...', false, Array)
+#2 /home/shinotec/public_html/bagsandfit.com/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/shinotec/public_html/bagsandfit.com/wp-content/themes/bazien/header.php(37): get_template_part('template-parts/...', 'type-default')
+#4 /home/shinotec/public_html/bagsandfit.com/wp-includes/template.php(770): require_once('/home/shinotec/...')
+#5 /home/shinotec/public_html/bagsandfit.com/wp-includes/template.php(716): load_template('/home/shinotec/...', true, Array)
+#6 /home/shinotec/public_html/bagsandfit.com/wp-includes/general-template.php(48): locate_templat in /home/shinotec/public_html/bagsandfit.com/wp-content/themes/bazien/template-parts/headers/header-type-default.php on line 148
+[01-Feb-2022 17:34:42 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/shinotec/public_html/bagsandfit.com/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Features/Marketing.php on line 270
+[02-Feb-2022 17:47:05 UTC] PHP Fatal error:  Uncaught MailPoetVendor\Doctrine\Persistence\Mapping\MappingException: No mapping file found named 'MailPoet.Entities.DynamicSegmentFilterEntity.php' for class 'MailPoet\Entities\DynamicSegmentFilterEntity'. in /home/shinotec/public_html/bagsandfit.com/wp-content/plugins/mailpoet/vendor-prefixed/doctrine/persistence/lib/Doctrine/Persistence/Mapping/MappingException.php:26
+Stack trace:
+#0 /home/shinotec/public_html/bagsandfit.com/wp-content/plugins/mailpoet/vendor-prefixed/doctrine/persistence/lib/Doctrine/Persistence/Mapping/Driver/DefaultFileLocator.php(47): MailPoetVendor\Doctrine\Persistence\Mapping\MappingException::mappingFileNotFound('MailPoet\\Entiti...', 'MailPoet.Entiti...')
+#1 /home/shinotec/public_html/bagsandfit.com/wp-content/plugins/mailpoet/vendor-prefixed/doctrine/persistence/lib/Doctrine/Persistence/Mapping/Driver/PHPDriver.php(15): MailPoetVendor\Doctrine\Persistence\Mapping\Driver\DefaultFileLocator->findMappingFile('MailPoet\\Entiti...')
+#2 /home/shinotec/public_html/bagsandfit.com/wp-cont in /home/shinotec/public_html/bagsandfit.com/wp-content/plugins/mailpoet/vendor-prefixed/doctrine/persistence/lib/Doctrine/Persistence/Mapping/MappingException.php on line 26
+[02-Feb-2022 21:12:40 UTC] PHP Fatal error:  Uncaught MailPoetVendor\Doctrine\Persistence\Mapping\MappingException: No mapping file found named 'MailPoet.Entities.SubscriberCustomFieldEntity.php' for class 'MailPoet\Entities\SubscriberCustomFieldEntity'. in /home/shinotec/public_html/bagsandfit.com/wp-content/plugins/mailpoet/vendor-prefixed/doctrine/persistence/lib/Doctrine/Persistence/Mapping/MappingException.php:26
+Stack trace:
+#0 /home/shinotec/public_html/bagsandfit.com/wp-content/plugins/mailpoet/vendor-prefixed/doctrine/persistence/lib/Doctrine/Persistence/Mapping/Driver/DefaultFileLocator.php(47): MailPoetVendor\Doctrine\Persistence\Mapping\MappingException::mappingFileNotFound('MailPoet\\Entiti...', 'MailPoet.Entiti...')
+#1 /home/shinotec/public_html/bagsandfit.com/wp-content/plugins/mailpoet/vendor-prefixed/doctrine/persistence/lib/Doctrine/Persistence/Mapping/Driver/PHPDriver.php(15): MailPoetVendor\Doctrine\Persistence\Mapping\Driver\DefaultFileLocator->findMappingFile('MailPoet\\Entiti...')
+#2 /home/shinotec/public_html/bagsandfit.com/wp-co in /home/shinotec/public_html/bagsandfit.com/wp-content/plugins/mailpoet/vendor-prefixed/doctrine/persistence/lib/Doctrine/Persistence/Mapping/MappingException.php on line 26
+[02-Feb-2022 21:13:16 UTC] PHP Fatal error:  Uncaught MailPoetVendor\Doctrine\Persistence\Mapping\MappingException: No mapping file found named 'MailPoet.Entities.SubscriberCustomFieldEntity.php' for class 'MailPoet\Entities\SubscriberCustomFieldEntity'. in /home/shinotec/public_html/bagsandfit.com/wp-content/plugins/mailpoet/vendor-prefixed/doctrine/persistence/lib/Doctrine/Persistence/Mapping/MappingException.php:26
+Stack trace:
+#0 /home/shinotec/public_html/bagsandfit.com/wp-content/plugins/mailpoet/vendor-prefixed/doctrine/persistence/lib/Doctrine/Persistence/Mapping/Driver/DefaultFileLocator.php(47): MailPoetVendor\Doctrine\Persistence\Mapping\MappingException::mappingFileNotFound('MailPoet\\Entiti...', 'MailPoet.Entiti...')
+#1 /home/shinotec/public_html/bagsandfit.com/wp-content/plugins/mailpoet/vendor-prefixed/doctrine/persistence/lib/Doctrine/Persistence/Mapping/Driver/PHPDriver.php(15): MailPoetVendor\Doctrine\Persistence\Mapping\Driver\DefaultFileLocator->findMappingFile('MailPoet\\Entiti...')
+#2 /home/shinotec/public_html/bagsandfit.com/wp-co in /home/shinotec/public_html/bagsandfit.com/wp-content/plugins/mailpoet/vendor-prefixed/doctrine/persistence/lib/Doctrine/Persistence/Mapping/MappingException.php on line 26
+[19-Feb-2022 15:03:37 UTC] PHP Fatal error:  Uncaught MailPoetVendor\Doctrine\Persistence\Mapping\MappingException: No mapping file found named 'MailPoet.Entities.FormEntity.php' for class 'MailPoet\Entities\FormEntity'. in /home/shinotec/public_html/bagsandfit.com/wp-content/plugins/mailpoet/vendor-prefixed/doctrine/persistence/lib/Doctrine/Persistence/Mapping/MappingException.php:26
+Stack trace:
+#0 /home/shinotec/public_html/bagsandfit.com/wp-content/plugins/mailpoet/vendor-prefixed/doctrine/persistence/lib/Doctrine/Persistence/Mapping/Driver/DefaultFileLocator.php(47): MailPoetVendor\Doctrine\Persistence\Mapping\MappingException::mappingFileNotFound('MailPoet\\Entiti...', 'MailPoet.Entiti...')
+#1 /home/shinotec/public_html/bagsandfit.com/wp-content/plugins/mailpoet/vendor-prefixed/doctrine/persistence/lib/Doctrine/Persistence/Mapping/Driver/PHPDriver.php(15): MailPoetVendor\Doctrine\Persistence\Mapping\Driver\DefaultFileLocator->findMappingFile('MailPoet\\Entiti...')
+#2 /home/shinotec/public_html/bagsandfit.com/wp-content/plugins/mailpoet/vendor-pref in /home/shinotec/public_html/bagsandfit.com/wp-content/plugins/mailpoet/vendor-prefixed/doctrine/persistence/lib/Doctrine/Persistence/Mapping/MappingException.php on line 26
+[02-Jun-2022 01:27:46 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
+[02-Jun-2022 01:27:46 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
+[02-Jun-2022 07:50:01 UTC] PHP Warning:  Error while sending QUERY packet. PID=6316 in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
+[02-Jun-2022 07:50:01 UTC] PHP Warning:  Error while sending QUERY packet. PID=6331 in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
+[05-Jun-2022 18:21:32 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
+[05-Jun-2022 18:21:32 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
+[07-Jun-2022 22:19:10 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
+[07-Jun-2022 22:19:10 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
+[10-Jun-2022 14:48:37 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
+[10-Jun-2022 14:48:37 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
+[10-Jun-2022 14:48:44 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
+[10-Jun-2022 14:48:44 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
+[13-Jun-2022 16:22:31 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
+[13-Jun-2022 16:22:31 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
+[28-Jun-2022 10:23:54 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `wp1b_options` WHERE `option_name` = '_transient_wcpay_locale_info' made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, wcpay_init, WC_Payments::init, WC_Payments_Localization_Service->__construct, WC_Payments_Localization_Service->load_locale_data, get_transient, delete_option
+[04-Jul-2022 03:48:03 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
+[04-Jul-2022 03:48:03 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
+[14-Jul-2022 12:29:48 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
+[14-Jul-2022 12:29:48 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
+[14-Jul-2022 12:29:50 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
+[14-Jul-2022 12:29:50 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
+[14-Jul-2022 12:29:50 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
+[14-Jul-2022 12:29:50 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
+[14-Jul-2022 12:29:51 UTC] PHP Warning:  Error while sending QUERY packet. PID=15485 in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
+[26-Sep-2022 12:21:23 UTC] PHP Warning:  Error while sending QUERY packet. PID=27718 in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
+[26-Sep-2022 12:21:23 UTC] PHP Warning:  Error while sending QUERY packet. PID=27996 in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
+[26-Sep-2022 12:21:23 UTC] PHP Warning:  Error while sending QUERY packet. PID=27712 in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
+[26-Sep-2022 12:21:24 UTC] PHP Warning:  Error while sending QUERY packet. PID=27711 in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
+[26-Sep-2022 12:21:24 UTC] PHP Warning:  Error while sending QUERY packet. PID=27701 in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
+[26-Sep-2022 12:21:24 UTC] PHP Warning:  Error while sending QUERY packet. PID=27731 in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
+[26-Sep-2022 12:21:24 UTC] PHP Warning:  Error while sending QUERY packet. PID=27640 in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
+[26-Sep-2022 12:21:24 UTC] PHP Warning:  Error while sending QUERY packet. PID=27717 in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
+[26-Sep-2022 12:21:24 UTC] PHP Warning:  Error while sending QUERY packet. PID=28137 in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
+[26-Sep-2022 12:21:25 UTC] PHP Warning:  Error while sending QUERY packet. PID=28019 in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
+[26-Sep-2022 12:21:27 UTC] PHP Warning:  Error while sending QUERY packet. PID=28055 in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
+[26-Sep-2022 12:21:27 UTC] PHP Warning:  Error while sending QUERY packet. PID=28053 in /home/shinotec/public_html/bagsandfit.com/wp-includes/wp-db.php on line 2162
